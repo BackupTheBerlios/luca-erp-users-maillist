@@ -1,0 +1,55 @@
+From ramirolaso at gmail.com  Wed Jun 15 01:31:34 2005
+From: ramirolaso at gmail.com (Ramiro Laso)
+Date: Tue, 14 Jun 2005 20:31:34 -0300
+Subject: [Luca-erp-users] GTK-Warning
+Message-ID: <aae5b4ca0506141631227a60a5@mail.gmail.com>
+
+Hola, siguiendo el tutorial de "corriendo Luca en distros modernas" llego a 
+hacer todo hasta el chroot. El problema viene cuando ejecuto el script me 
+sale lo siguiente:
+
+access control disabled, clients can connect from any host
+
+Bienvenido a Luca v0.2.0
+
+GTK-Warning **: cannot open display: :0.0
+
+
+?Qu? puede ser?. Aclaro que tuve que alterar algunos pasos en el tutorial 
+para lograr llegar hasta este ?ltimo punto.
+
+Alter? lo siguiente:
+
+1) En el punto " y la populamos" la l?nea 2: $ ./sql/admin_period.py papo 
+papo locahost" tuve que hacerlo despu?s de hacer chroot y funcion?. ?Ser? 
+por la versi?n de Python que tengo instalada?
+
+2) Tuve que alterar el script de ejecuci?n: donde dice "sudo chroot 
+/var/lib....bla, bla", puse: "sudo /usr/sbin/chroot ....bla, bla" . Si no 
+saltaba un error de que no encontraba el comando chroot cuando ejeutaba el 
+script como usuario no root. Tambi?n tuve que alterar el sudoers donde el 
+art?culo dec?a que hab?a que poner: " ALL= NOPASSWD: /bin/chroot" yo puse 
+ALL= NOPASSWD: /usr/sbin/chroot"
+
+PD: Uso Mandrake 10.0
+
+Saludos a todos y desde ya muchas gracias. Ramiro Laso.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/luca-erp-users/attachments/20050614/289100ba/attachment.html>
+
+From ramirolaso at gmail.com  Wed Jun 22 23:42:02 2005
+From: ramirolaso at gmail.com (Ramiro Laso)
+Date: Wed, 22 Jun 2005 18:42:02 -0300
+Subject: [Luca-erp-users] Error
+Message-ID: <aae5b4ca05062214423d4752ff@mail.gmail.com>
+
+hola, este es el mensaje que me sale. Saludos Ramiro.
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: error.jpg
+Type: image/jpeg
+Size: 26905 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/luca-erp-users/attachments/20050622/35dc66e3/attachment.jpg>
+

@@ -1,0 +1,30 @@
+From abel at aberen.com  Tue Feb 28 20:06:40 2006
+From: abel at aberen.com (abel)
+Date: Tue, 28 Feb 2006 16:06:40 -0300
+Subject: [Luca-erp-users] Error al iniciar: gtk-warning **: cannot open display: :0.0
+Message-ID: <20060228190640.M88615@aberen.com>
+
+Muchachos,
+Estoy queriendo correr luca en un ubuntu (es casi un debian).
+He seguido las instarucciones del documento 'Como correr Luca en distribuciones 
+modernas' y cuando parece que todo esta bien instalado me da el siguiente 
+mensaje de error (y muere lastimosamente):
+
+  Gtk-WARNING **: cannot open display: :0.0
+
+X funciona bien, mi windows manager es gnome y las otras aplicaciones X corren
+sin problemas.
+
+El problema es el mismo corriendo como root y como usuario ordinario.
+
+De acuerdo con postings pasados ya prob? agregar 'export DISPLAY=localhost:0' y 
+tambi?n 'export DISPLAY=:0:0' en diferentes lugares del script 'correme' pero el 
+problema se mantiene.
+
+Alguna idea? Aunque sea para ayudarme a diagnosticar el origen del problema.
+
+Muchas gracias por la ayuda.
+
+abel
+
+

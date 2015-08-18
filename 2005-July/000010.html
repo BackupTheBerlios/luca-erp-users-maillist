@@ -1,0 +1,121 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Luca-erp-users] Re: mision: imprimir
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/luca-erp-users/2005-July/index.html" >
+   <LINK REL="made" HREF="mailto:luca-erp-users%40lists.berlios.de?Subject=Re%3A%20%5BLuca-erp-users%5D%20Re%3A%20mision%3A%20imprimir&In-Reply-To=%3C200507112101.29079.mdione%40vialibre.org.ar%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000009.html">
+   <LINK REL="Next"  HREF="000011.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Luca-erp-users] Re: mision: imprimir</H1>
+    <B>Marcos Dione</B> 
+    <A HREF="mailto:luca-erp-users%40lists.berlios.de?Subject=Re%3A%20%5BLuca-erp-users%5D%20Re%3A%20mision%3A%20imprimir&In-Reply-To=%3C200507112101.29079.mdione%40vialibre.org.ar%3E"
+       TITLE="[Luca-erp-users] Re: mision: imprimir">mdione at vialibre.org.ar
+       </A><BR>
+    <I>Tue Jul 12 02:01:28 CEST 2005</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000009.html">[Luca-erp-users] Problemas con el Alta de Datos
+</A></li>
+        <LI>Next message: <A HREF="000011.html">[Luca-erp-users] PROPOSAL
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#10">[ date ]</a>
+              <a href="thread.html#10">[ thread ]</a>
+              <a href="subject.html#10">[ subject ]</a>
+              <a href="author.html#10">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>On Monday 11 de July de 2005 19:29, you wrote:
+&gt;<i> Bien, saludos Se&#241;or Marcos Dione, en principio muy
+</I>&gt;<i> agradecido por su tiempo y energ&#237;a invertidos en
+</I>&gt;<i> responder a nuestras consultas. Sinceramente muchas
+</I>&gt;<i> gracias.
+</I>
+	hola alfredo. te pido por favor que uses las listas de correo. de esta forma, 
+no solo puede haber mas gente que pueda responder, sino que ademas queda para 
+que otros vean los problemas y soluciones.
+
+&gt;<i> Le cuento que este fin de semana pasado nos pusimos a
+</I>&gt;<i> poner en practica las sugerencias enviadas en su
+</I>&gt;<i> respuesta y por ahora nos vamos a centrar en el tema
+</I>&gt;<i> de la impresi&#243;n.
+</I>
+&gt;<i> Al comienzo verificamos que efectivamente xless no lo
+</I>&gt;<i> ten&#237;amos instalado. Lo instalamos y configuramos Luca
+</I>&gt;<i> para funcionar con dicho programa. Lamentablemente
+</I>&gt;<i> nada ocurri&#243;, seguimos sin poder imprimir. Te comento
+</I>&gt;<i> un poco que hicimos para hacer todas las pruebas
+</I>&gt;<i> necesarias para buscarle la vuelta a esto. Debian
+</I>&gt;<i> nuestro querido Debian configura por defecto lpd como
+</I>&gt;<i> mecanismo de impresi&#243;n, verificamos la configuraci&#243;n y
+</I>&gt;<i> si los demonios arrancan al inicio del sistema.
+</I>
+&gt;<i> Instalamos cups y configuramos la impresora desde all&#237;
+</I>&gt;<i> tambi&#233;n, sin &#233;xito dentro de Luca y digo dentro de
+</I>&gt;<i> Luca por que todo lo dem&#225;s que esta instalado en el
+</I>&gt;<i> sistema  imprime normalmente. Lo que nos llama mucho
+</I>&gt;<i> la atenci&#243;n es no tener mensaje de error de alguna
+</I>&gt;<i> librer&#237;a o servicio que no este funcionando. Xless se
+</I>&gt;<i> activa, genera un archivo de texto aparece un men&#250; con
+</I>&gt;<i> un bot&#243;n Print, dicho bot&#243;n al clickearlo nada pasa.
+</I>
+	esos programas por lo general usan lpr. proba agarrar en una consola un 
+archivo de texto cualquiera y hacer:
+
+lpr &lt;archivo&gt;
+
+	eso funciona? otra opcion, podes seguir imprimiendo con el resto despues de 
+una de estas pruebas? hay algo en la cola de impresion? podes fijarte esto 
+ultimo con:
+
+lpq
+
+&gt;<i> La consulta es hoy por hoy &#191;tendr&#225; xless alg&#250;n archivo
+</I>&gt;<i> de configuraci&#243;n para modificar o el problema pasara
+</I>&gt;<i> por otro lado?.
+</I>
+	sip, fijate en la manpage de xless. tendrias que poner en un 
+archivo .Xresources del usuario que corre Luca una linea similar a:
+
+xless.printCommand: &lt;comando&gt;
+
+	&lt;comando&gt; pueden ser cosas como `lpr` o similar.
+
+-- 
+Marcos Dione 
+Fundacion Via Libre - Belgrano 594 2D - X5000JQL 
+Cordoba - Cordoba - Argentina
+
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000009.html">[Luca-erp-users] Problemas con el Alta de Datos
+</A></li>
+	<LI>Next message: <A HREF="000011.html">[Luca-erp-users] PROPOSAL
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#10">[ date ]</a>
+              <a href="thread.html#10">[ thread ]</a>
+              <a href="subject.html#10">[ subject ]</a>
+              <a href="author.html#10">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/luca-erp-users">More information about the Luca-erp-users
+mailing list</a><br>
+</body></html>

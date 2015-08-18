@@ -1,0 +1,322 @@
+From lira at terared.com  Fri Aug  5 01:25:16 2005
+From: lira at terared.com (Ernesto A. Lira Castro)
+Date: Thu, 04 Aug 2005 18:25:16 -0500
+Subject: [Luca-erp-users] ayuda con luca en FreeBSD
+Message-ID: <1123197916.8639.13.camel@netitux.ryt>
+
+Que tal lista!
+
+Estoy tratando de hacer jalar luca con el demo_luca.iso en un FreeBSD
+5.4-STABLE #0 con emulacion Linux (Redhat), todo va bien segun las
+instrucciones de su manual "Corriendo Luca en distros modernas", hasta
+el ultimo paso de ejecutar luca con el script, me sale el siguiente
+mensaje:
+
+[lira at netitux:/terared/luca] $ luca
+access control disabled, clients can connect from any host
+Password:
+Bienvenido a Luca v0.2.0
+
+Gtk-WARNING **: cannot open display: 127.0.0.1:0
+
+=======================================================================
+
+Por ahi ya me estuvo ayudando Ramiro Laso, pero no hemos podido detectar
+el problema y la verdad estoy muy interesado en usar su sistema luca.
+
+
+Sin mas por el momento me despido.
+
+Gracias por su atencion
+
+Ernesto Lira
+
+
+
+From mdione at grulic.org.ar  Fri Aug  5 06:05:40 2005
+From: mdione at grulic.org.ar (Marcos Dione)
+Date: Fri, 5 Aug 2005 01:05:40 -0300
+Subject: [Luca-erp-users] ayuda con luca en FreeBSD
+In-Reply-To: <1123197916.8639.13.camel@netitux.ryt>
+References: <1123197916.8639.13.camel@netitux.ryt>
+Message-ID: <20050805040540.GG22282@plantalta.homelinux.net>
+
+On Thu, Aug 04, 2005 at 06:25:16PM -0500, Ernesto A. Lira Castro wrote:
+> [lira at netitux:/terared/luca] $ luca
+> access control disabled, clients can connect from any host
+> Password:
+> Bienvenido a Luca v0.2.0
+> 
+> Gtk-WARNING **: cannot open display: 127.0.0.1:0
+
+    hmm, ten?s X andando en el freebsd? yo la verdad no tengo mucha idea con ?l.
+dado que el problema parece ser gen?rico para todos los programas gr?ficos de
+linux en ese entorno (has probado con alg?n otro? modificando el script que hace
+corre luca ser?a la forma m?s simple), yo te dir?a que mandes un mail a
+grulic at grulic.org.ar (es una lista de correo de soft libre; avis? si/que no
+est?s suscripto) donde s? que hay varios freebsd'eros.
+
+-- 
+(Not so) Random fortune:
+13:54 <@xanthus> wow
+13:54 <@xanthus> estoy hablando como un tipo maduro
+13:54 <@xanthus> damn
+
+
+From luckydaylotteryint at winning.com  Mon Aug 15 20:35:53 2005
+From: luckydaylotteryint at winning.com (LUCKYDAY LOTTERY INTERNATIONAL)
+Date: Mon, 15 Aug 2005 20:35:53 +0200
+Subject: [Luca-erp-users] CONGRATULATIONS  YOU  HAVE  WON!!!
+Message-ID: <200508151835.j7FIZu528002@bat.berlios.de>
+
+ FROM:LUCKYDAY LOTTERY INTERNATIONAL
+    INTERNATIONAL PROMOTION/PRIZE AWARD DEPT.
+       website www.luckyday.nl
+REF: MLI/231-ILGI0432/04
+BATCH: IPD/15/096/PTNL
+RE: WINNING RESULT NOTIFICATION
+Sir/Madam
+  We are pleased to inform you of the result of the Lottery Winners International programs held on the 12th of Aug.2005. Your e-mail address attached to ticket number 20511465697-62955 with serial number 472-971106 drew lucky numbers 8-66-97-22-71-59 which consequently won in the 2nd category, you have therefore been approved for a lump sum pay out of  ?1,000,000.00  (One Million Euro)
+CONGRATULATIONS!!!
+  Due to mix up of some numbers and names, we ask that you keep your winning information very confidential till your claims has been processed and your prize/money Remitted to you. This is part of our security protocol to avoid double claiming and unwarranted abuse of this program by some participants. All participants were selected through a computer ballot system drawn from over 200,000,000 company and 300,000,000 individual email addresses and names from all over the world. This promotional program takes place annually. We hope with part of your winning you will take part in our next year ?5,000,000.00 (Five million Euro) international lottery award.
+ To file for your claim, please contact our/your fiducial agent
+MR RICHARD WILLIAMS of the,
+CONTINET TRUST CONSULTANCY, 
+TEL: +39-340-911-6212.
+Email: contbconsultancy at netscape.net
+  Note that all winning must be claimed not later than  20th of Sept. 2005. After this date all unclaimed, funds will be included in the next stake. Please note in order to avoid unnecessary delays and complications please remember to quote your reference number and batch numbers in all correspondence. Furthermore, should there be any change of address do inform our agent as soon as possible.
+ Congratulations once more from our members of staff and thank you for being part of our promotional  program.
+Note: Anybody under the age of 18 is automatically disqualified.
+Sincerely yours,
+Mrs. Helen Van Colle
+Lottery Coordinator.  
+
+From hir at red.es  Mon Aug 15 20:43:59 2005
+From: hir at red.es (John Elmond)
+Date: Mon, 15 Aug 2005 18:43:59 +0000
+Subject: [Luca-erp-users] wGF <Name>, we invite You to elite sites with 4 in 1 jGF
+In-Reply-To: <6G5HBI02C63LH623@berlios.de>
+References: <6G5HBI02C63LH623@berlios.de>
+Message-ID: <G39CHC86850KBJAG@red.es>
+
+Hello Luca-erp-users,
+
+At this time we can offer a small update at our system - BD-MAGAZINE Issue N1,2,3,4,5!
+... When it's  late  at night , all ya really  need is some  midnight passion. See 
+a video few sweet young models show fashion for your passion within these pages.
+Tanya, Marisha, Oksana and Alena.They have new video serries of beautiful Tanya...
+  
+             http://clqcHIfEKDC.leetempire.com/5/?oTylNTgu
+  
+Our great and unique offer: for each subscribtion You get access to another
+three sites from our portal for 31 days... without any additional payments!
+Simply subscribe, select and use!
+
+MSGID: p0UuN0ZfXt8xGuYRcT8QtKtTt1ftJwLb
+
+
+
+
+From abel at aberen.com  Tue Aug 16 18:01:20 2005
+From: abel at aberen.com (abel)
+Date: Tue, 16 Aug 2005 13:01:20 -0300
+Subject: [Luca-erp-users] usuario nuevo
+Message-ID: <20050816160120.M52462@aberen.com>
+
+Hola.
+
+Para un emprendimiento nuevo estoy queriendo evaluar la posibilidad de utilizar 
+Luca.
+
+Antes de intentar la instalaci?n he mirado el manual y la documentaci?n que 
+acompa?ala la distribuci?n y no encontr? demasiada informaci?n sobre como 
+instalar (fuera de un script de nombre 'correme') as? que me tomo el 
+atrevimiento de hacer algunas consultas aqu?.
+
+(1) Cuales son los requerimientos m?nimos de instalaci?n? No me refiero al 
+hardware sino a la plataforma y al software necesario para correr el sistema.
+
+(2) El esquema con el cual me gustar?a operar es: varias estaciones de trabajo 
+corriendo ubuntu y una m?quina con Debian Sarge corriendo el servidor de 
+archivos y base de datos. Es este un esquema apropiado para Luca? Hay algun 
+documento que me ayude a instalarlo (o alguien que me pueda facilitar la tarea 
+con alg?n comentario)?
+
+(3) Cuanta gente hay actualmente usando Luca?
+
+Muchas gracias.
+
+abel
+
+
+
+From mdione at vialibre.org.ar  Wed Aug 17 02:03:12 2005
+From: mdione at vialibre.org.ar (Marcos Dione)
+Date: Tue, 16 Aug 2005 21:03:12 -0300
+Subject: [Luca-erp-users] usuario nuevo
+In-Reply-To: <20050816160120.M52462@aberen.com>
+References: <20050816160120.M52462@aberen.com>
+Message-ID: <200508162103.13021.mdione@vialibre.org.ar>
+
+On Tuesday 16 de August de 2005 13:01, abel wrote:
+> (1) Cuales son los requerimientos m?nimos de instalaci?n? No me refiero al
+> hardware sino a la plataforma y al software necesario para correr el
+> sistema.
+
+	mira, el sistema anda casi exclusivamente en un Debain Woody, pero es posible 
+hacerlo andar en cualquier otra distro, pero la instalaci?n lleva un poco mas 
+de esfuerzo. 
+
+> (2) El esquema con el cual me gustar?a operar es: varias estaciones de
+> trabajo corriendo ubuntu y una m?quina con Debian Sarge corriendo el
+> servidor de archivos y base de datos. Es este un esquema apropiado para
+> Luca? Hay algun documento que me ayude a instalarlo (o alguien que me pueda
+> facilitar la tarea con alg?n comentario)?
+
+	en:
+
+http://papo.vialibre.org.ar/luca-folder/chrooted-luca_take-2.1.html
+
+	vas a encontrar una gu?a paso a paso para poder instalarlo en el sarge.
+
+-- 
+Marcos Dione 
+Fundacion Via Libre - Belgrano 594 2D - X5000JQL 
+Cordoba - Cordoba - Argentina
+
+
+From cadastramento_radar_yahoo at yahoo.com.br  Sun Aug 28 23:57:32 2005
+From: cadastramento_radar_yahoo at yahoo.com.br (Sitios de Busquéda)
+Date: Sun, 28 Aug 2005 18:57:32 -0300
+Subject: [Luca-erp-users] Sitios de Búsqueda del mundo
+Message-ID: <200508282157.j7SLvN612332@bat.berlios.de>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/luca-erp-users/attachments/20050828/64d4be6a/attachment.html>
+
+From arielsbertis at mails.de  Mon Aug 29 07:29:42 2005
+From: arielsbertis at mails.de (arielsbertis at mails.de)
+Date: Mon, 29 Aug 2005 07:29:42 +0200
+Subject: [Luca-erp-users] CONGRATULATIONS!!!
+Message-ID: <75CA27A8.A28B403@mails.de>
+
+South Australia Lotteries,
+
+23 Rundle Mall, Adelaide,
+
+South Australia.
+
+(South Australia Lottories is an affiliate of Overseas Subscriber 
+
+Agents).
+
+Arena Complex 14 Donegall Square West, United Kingdom.
+
+ 
+
+From: Ariel Bertis
+
+e-mail : arielsbertis at mails.de
+
+(Lottery Coordinator)
+
+ 
+
+Sir/adam,
+
+ 
+
+CONGRATULATIONS!!!
+
+ 
+
+We are pleased to inform you of the result of the South Australia 
+
+Lotteries Winners International programs held on the 19th, Aog, 2005. 
+
+Your e-mail address attached to ticket #: 00903228100 with prize # 
+
+778009/2 drew ?1,000,000.00 which was first in the 2nd class of the 
+
+draws. 
+
+you are to receive ?1,000,000.00 (One Million Euros). Because of mix up 
+
+in cash pay-outs, we ask that you keep your winning information 
+
+confidential until your money (?1,000,000.00) has been fully remitted 
+
+to you by our accredited pay-point bank. This measure must be adhere 
+
+to  avoid loss of your cash prize - winners of our cash prizes are 
+
+advised to adhere to these instructions to forestall the abuse of this 
+
+program by other participants. 
+
+It's important to note that this draws were conducted formally, and 
+
+winners are selected through an internet ballot system from 60,000 
+
+individual and companies e-mail addresses - the draws are conducted 
+
+around the world through our internet based ballot system. The 
+
+promotion is sponsored and promoted by South Australia lotteries. 
+
+We congratulate you once again. We hope you will use part of it in our 
+
+next draws; the jackpot winning is ?85million. 
+
+Remember, all winning must be claimed not later than 20 days. 
+
+After this date all unclaimed cash prize will be forfeited and included 
+
+in the next sweepstake. 
+
+Please, in order to avoid unnecessary delays and complications remember 
+
+to quote personal and winning numbers in all correspondence with us.
+
+ 
+
+Congratulations once again from all members of South Australia 
+
+Lotteries. Thank you for being part of our promotional program.
+
+ 
+
+For immediate release of your cash prize to you, please kindly contact 
+
+our Paying Bank ( Deutsche Bank, Amsterdam.)
+
+Send them the following:
+
+(i). Your names, (ii) Contact telephone and fax numbers (iii) Contact 
+
+Address (iv) your winning numbers (v) Quote amount won.
+
+ Contact the paying bank with the following:
+
+Contact person: Mr. Water Williams,
+
+Deutsche Bank, Amsterdam, Netherlands.
+
+E-mail:custservicess at netscape.net
+
+Tel: 31 647-210-426
+
+Fax: 31-847-504-579
+
+ Congratulations once again.
+
+Yours in service,
+
+Ariel Bertis
+
+(Lottery director)
+
+
+
+
+

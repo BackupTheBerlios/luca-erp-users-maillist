@@ -1,0 +1,611 @@
+From arielfx at telnet.com.ar  Sat Oct  1 01:32:16 2005
+From: arielfx at telnet.com.ar (Ariel Funes)
+Date: Fri, 30 Sep 2005 20:32:16 -0300
+Subject: [Luca-erp-users] error Corriendo Luca-0.2.0 en distribuciones modernas II
+Message-ID: <433DCB00.9030500@telnet.com.ar>
+
+Hola a todos....bueno a vos Ramiro...que sos el que me estas ayudando.
+Si, estoy haciendo todo lo del tutorial 2, y he avanzado bastante. Lo 
+?nico que me falta es poder lanzarlo... este es el  error, cuando 
+intento iniciarlo.
+
+[ariel at localhost bin]$ luca
+access control disabled, clients can connect from any host
+Sorry, user ariel is not allowed to execute '/usr/sbin/chroot 
+/var/lib/luca/mnt/ bash -c export 
+PATH=/sbin:/usr/sbin:/usr/local/bin:/usr/bin:/bin:/usr/bin:/usr/local/bin:/usr/X11R6/bin/:/usr/games:/usr/lib/jdk-1.4.2_07/bin:/home/ariel/bin:/usr/lib/jdk-1.4.2_07/bin;                 
+/etc/init.d/postgresql restart;        /usr/local/bin/luca' as root on 
+localhost.
+
+?Que sera?
+
+Gracias
+
+
+From mrsevfelly at freesurf.fr  Mon Oct  3 22:36:46 2005
+From: mrsevfelly at freesurf.fr (Mrs felicia Evans)
+Date: Mon, 03 Oct 2005 22:36:46 +0200
+Subject: [Luca-erp-users] Nice hearing from you
+Message-ID: <200510032137.j93Lbs920722@bat.berlios.de>
+
+Dear friend,
+I am a Sierra Leon by nationality, presently residing here in
+theNeighbouring country Benin republic as a result of war that erupted
+in Freetown.
+ I got your contact from your country business guide.We therefore solicit
+for your assistance to grant us the moral andtechnical advice that we may
+require to Relocate/invest overseas.
+It is true that I had not known you before, but I have no option than to risk
+believing that God will not let us alone. It's my pleasure to Contact you
+for a business venture which I and my Son, intend to establish in your
+country.
+ 
+When war erupted in Freetown, there is certain Amount ofmoney totalling USD
+nineteen million ($19,000,000.00) which my late husband was able to move out
+of Sierraleon through a diplomatic channel, with theassistance of a
+securities and finance company before he was assassinated by unknown
+persons.
+Now I and  my son decided to invest these money in your country or any
+where safe enough outside Africa for security and political reasons.
+IMPORTANT
+We want you to understand that you will assist us to secure these funds
+forthe investment first, from the securities company.
+We are interested in hospitality industry
+If you want to assist us, feel free to contact me urgently through my
+son  samuel who is presently seeking asylum in Europe Through this email
+address(eviansamy at walla.com  )  
+to enable him give to you further Information relative to
+the presence/position of funds which will authorize the securities company
+to release to you as our partner and beneficiary
+Regards
+ Mrs  felicia Evans  
+
+From suprntltto1c at netscape.net  Tue Oct 11 02:35:12 2005
+From: suprntltto1c at netscape.net (Supernet Int'l Lottery)
+Date: Tue, 11 Oct 2005 01:35:12 +0100
+Subject: [Luca-erp-users] LOTTERY AWARD WINNER!!!
+Message-ID: <AFB416F2.96CFCD3@netscape.net>
+
+SUPERNET INTERNATIONAL - LOTTERY PROMOTIONAL PROGRAM
+VAN DER MADEWEG 92, 1099 BS,
+ANSTERDAM, NETHERLANDS.
+
+Ref: SNIL/6730X2/05
+Batch: 998/CA01/05BT
+
+Attn:  Winner
+
+                     RE AWARD NOTIFICATION / PROCESSING ADVICE: SNIL
+
+We happily announce to you the draw (#998) of the SUPERNET INTERNATIONAL LOTTERY, 
+online Sweepstakes International program held on 10th October, 2005 in AMSTERDAM, 
+THE NETHERLANDS. Participants were selected through a computer ballot system drawn 
+from 400,000 names/email addresses of individuals and companies from Africa, America, 
+Asia, Australia, Canada, Europe, Middle East, and New Zealand as part of our International 
+Promotions Program. You/Your e-mail address attached to ticket number: 564 7430 0585 
+with Serial number 568/05 drew the lucky numbers: 15 .21. 24.38 .44 Bonus Ball, which 
+subsequently won you the lottery in the 1st category i.e. match 6, jackpot.
+You have therefore been approved to claim a total sum of $1,500,000 (0NE MILLION FIVE HUNDRED 
+THOUSAND UNITED STATE DOLLARS) in cash, credited to file Ref: SNIL/6730X2/05. 
+This is from a total cash prize of $USD 7,500,000 shared amongst the first five (5) lucky winners in this category.
+Your funds are now deposited with a reputable finance firm in the Netherlands Insured with 
+your FILE REFERENCE number, REF: SNIL/6730X2/05. For security reasons, 
+you are advised to keep the entire details of your award confidential till your claim is processed and your 
+money remitted to you in whatever manner you deem fit to receive your prize. This is part 
+of our precautionary measure to avoid double claiming and unwarranted abuse of this program.
+Please be warned!! 
+To begin your claim, please contact your file processing officer:
+
+Mr. Rechard Broek, 
+SUPERNET INTERNATIONAL LOTTERY
+Email: Supernetlotteri at netscape.net
+Tel : +31 647 506 095
+Fax:+ 31 847 222 920
+
+Kind Regards, 
+MRS. ANNA-MARIA VANBEL
+DIRECTOR OF PROMOTIONAL PROGRAM
+
+
+From suprntltto1td at yahoo.com  Tue Oct 11 02:27:48 2005
+From: suprntltto1td at yahoo.com (Supernet Int'l Lottery)
+Date: Tue, 11 Oct 2005 03:27:48 +0300
+Subject: [Luca-erp-users] LOTTERY AWARD WINNER!!!
+Message-ID: <4fde01c5ce13$c0ff3b60$4ec579b5@suprntltto1td>
+
+SUPERNET INTERNATIONAL - LOTTERY PROMOTIONAL PROGRAM
+VAN DER MADEWEG 92, 1099 BS,
+ANSTERDAM, NETHERLANDS.
+
+Ref: SNIL/6730X2/05
+Batch: 998/CA01/05BT
+
+Attn:  Winner
+
+                     RE AWARD NOTIFICATION / PROCESSING ADVICE: SNIL
+
+We happily announce to you the draw (#998) of the SUPERNET INTERNATIONAL LOTTERY, 
+online Sweepstakes International program held on 10th October, 2005 in AMSTERDAM, 
+THE NETHERLANDS. Participants were selected through a computer ballot system drawn 
+from 400,000 names/email addresses of individuals and companies from Africa, America, 
+Asia, Australia, Canada, Europe, Middle East, and New Zealand as part of our International 
+Promotions Program. You/Your e-mail address attached to ticket number: 564 7430 0585 
+with Serial number 568/05 drew the lucky numbers: 15 .21. 24.38 .44 Bonus Ball, which 
+subsequently won you the lottery in the 1st category i.e. match 6, jackpot.
+You have therefore been approved to claim a total sum of $1,500,000 (0NE MILLION FIVE HUNDRED 
+THOUSAND UNITED STATE DOLLARS) in cash, credited to file Ref: SNIL/6730X2/05. 
+This is from a total cash prize of $USD 7,500,000 shared amongst the first five (5) lucky winners in this category.
+Your funds are now deposited with a reputable finance firm in the Netherlands Insured with 
+your FILE REFERENCE number, REF: SNIL/6730X2/05. For security reasons, 
+you are advised to keep the entire details of your award confidential till your claim is processed and your 
+money remitted to you in whatever manner you deem fit to receive your prize. This is part 
+of our precautionary measure to avoid double claiming and unwarranted abuse of this program.
+Please be warned!! 
+To begin your claim, please contact your file processing officer:
+
+Mr. Rechard Broek, 
+SUPERNET INTERNATIONAL LOTTERY
+Email: Supernetlotteri at netscape.net
+Tel : +31 647 506 095
+Fax:+ 31 847 222 920
+
+Kind Regards, 
+MRS. ANNA-MARIA VANBEL
+DIRECTOR OF PROMOTIONAL PROGRAM
+
+
+From erow at walla.com  Tue Oct 11 04:41:21 2005
+From: erow at walla.com (Support)
+Date: Tue, 11 Oct 2005 02:41:21 +0000
+Subject: [Luca-erp-users] t5b B D   M agazine #8 N O W is out !!! with 4in 1 aEq
+In-Reply-To: <LJKA9FA0I780J5J2@berlios.de>
+References: <LJKA9FA0I780J5J2@berlios.de>
+Message-ID: <EC8LG385I16A5FD3@walla.com>
+
+Hello Luca-erp-users,
+
+At this time we can offer a small update at our system - BD-MAGAZINE Issue N8!
+Throw the dog a bone won't you? Come on in for hi-qualty videos of your fantasies come
+true. They are thumbnailed, so you will see that they are all cute and beautiful. 5 young
+models presented of 5 to 12 mpeg each. We're talking over 1,5 Gigabytes videos.
+  
+             http://invidiously.trueoffer.net/6/?facility
+  
+Our great and unique offer: for each subscribtion You get access to another
+three sites from our portal for 31 days... without any additional payments!
+Simply subscribe, select and use!
+
+MSGID: XmoZtB4TuaHUlPadequatelyFd5zJfGtI7U95r
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/luca-erp-users/attachments/20051011/1bf977c9/attachment.html>
+
+From laprimitiavzone at caramail.com  Thu Oct 13 13:52:22 2005
+From: laprimitiavzone at caramail.com (MRS.BLANCO LOPEZ)
+Date: Thu, 13 Oct 2005 13:52:22 +0200
+Subject: [Luca-erp-users] RE: AWARD NOTIFICATION FINAL NOTICE
+Message-ID: <200510121149.j9CBnM902810@bat.berlios.de>
+
+FROM THE DESK OF MANAGINE DIRECTOR 
+CLAIM FILE NUMBER: EG/008045160027                                           MADRID: 15/09/2005
+
+BATCH NUMBER: 100000488                                                                                                 
+
+                                 RE: AWARD NOTIFICATION FINAL NOTICE
+
+                                                                                      
+
+We are pleased to inform you today 15th day of sept 2005 for the release of the SPANISH SWEEPSTAKE LOTTERY / INTERNATIONAL PROGRAM Held on the 26 Aug 2005. Your name attached to the ticket number 025-11-464-992-750 drew the lucky number 134-15-16-21-34-36 which consequently won the lottery in the 3rd category. You have therefore been approved for a lump sum pay of US$950,950.00 ( NINE HUNDRED AND FIFTY THOUSAND, NINE HUNDRED AND FIFTY UNITED STATES DOLLARS ONLY ) in cash credited to file NO: EG/008045160027. This is From A Total Cash Prize of US$25,756.820.00 ( TWENTY FIVE MILLION SEVEN HUNDRED AND FIFTY SIX THOUSAND, EIGHT HUNDRED AND TWENTY DOLLARS ONLY ) shared Among International Winners In This category 
+
+                 CONGRATULATIONS.
+
+Your fund is now deposited with a finance company insured to your name. please note that your claim and batch numbers are the key to your funds, you are to keep this as a top confidential until your claim has been processed and your money remitted to your bank account as this is part of our protocol to avoid double claiming or unwarranted taking of an advantage of this program by participants.
+
+All Participants were selected through a computer ballot system drawn from 25,000 names from Europe and America as part of our international promotions program which we conduct twice every year. We hope with a part of your prize you will take part in our next high stake USD1.3 BILLION INTERNATIONAL LOTTERY.
+
+To begin your claim, please contact your claim agent MR.LUIS GOMEZ, the foreign Service manager UNION SECURITY & FINANCE COMPANY TEL:+34-696-700-066 FAX:+34-940-465-815 EMAIL:agentluisgomez2000 at zwallet.com for processing and transfer of your prize money to a designated bank account of your choice. Remember all prize money must be claimed not latter than 15th October 2005. After this date, all funds will be return to the Ministerio De economia y Hacienda as unclaimed.
+
+NOTE: In order to avoid unnecessary delay and complications, please remember to quote your reference and batch numbers in every of your correspondence with us or your agent, furthermore, should there be any change of address, Do notify your claims agent as soon as possible.
+
+Congratulations again from all members of our staff and thank you for being a part of our promotion program.
+
+ 
+
+Sincerely,
+
+                                                       MRS.BLANCO LOPEZ  
+
+                                                          DIRECTOR    
+
+ 
+
+
+From abel at aberen.com  Wed Oct 12 15:23:47 2005
+From: abel at aberen.com (abel)
+Date: Wed, 12 Oct 2005 10:23:47 -0300
+Subject: [Luca-erp-users] Error al iniciar: gtk-warning **: cannot open display: :0.0
+In-Reply-To: <200510121149.j9CBnM902810@bat.berlios.de>
+References: <200510121149.j9CBnM902810@bat.berlios.de>
+Message-ID: <20051012132347.M64705@aberen.com>
+
+Muchachos,
+Estoy queriendo correr luca en un sarge y cuando parece que todo esta bien 
+instalado me da el siguiente mensaje de error (y muere lastimosamente):
+
+Gtk-WARNING **: cannot open display: :0.0
+
+X me funciona bien, mi windows manager es blackbox, otras aplicaciones X corren 
+sin problemas (por ej. Opera).
+
+El problema es el mismo corriendo como root y como usuario ordinario.
+
+Alguna idea?
+
+Muchas gracias por la ayuda.
+
+abel
+
+
+From abel at aberen.com  Thu Oct 13 06:31:59 2005
+From: abel at aberen.com (abel)
+Date: Thu, 13 Oct 2005 01:31:59 -0300
+Subject: [Luca-erp-users] Error al iniciar: gtk-warning **: cannot open display: :0.0
+In-Reply-To: <aae5b4ca0510120814q75bbeaeap@mail.gmail.com>
+References: <200510121149.j9CBnM902810@bat.berlios.de> <20051012132347.M64705@aberen.com> <aae5b4ca0510120814q75bbeaeap@mail.gmail.com>
+Message-ID: <20051013043159.M37183@aberen.com>
+
+Muchas gracias por tu respuesta.
+Lamentablemente a pesar de insertar export DISPLAY=:0.0 en la primer linea que 
+se ejecuta del script sigue pasando lo mismo.
+Lo mas extra?o es que teniendo la variable de entorno en ese valor, si abro una 
+xterm y en el prompt tipeo xterm &, lo que sucede es que se abre inmediatemente 
+otra terminal, por lo que entiendo que la pantalla existe, tiene ese valor y 
+otros programas lo interpretan correctamente.
+La verdad es que no entiendo porque gtk no puede conectarse con esa pantalla.
+Bueno, cualquier ayuda ser? bienvenida.
+
+On Wed, 12 Oct 2005 12:14:30 -0300, Ramiro Laso wrote
+> Abel, en el script que lanza luca pon? export DISPLAY=localhost:0 y
+> tiene que andar. Saludos. Ramiro
+> 
+> El 12/10/05, abel<abel at aberen.com> escribi?:
+> > Muchachos,
+> > Estoy queriendo correr luca en un sarge y cuando parece que todo esta bien
+> > instalado me da el siguiente mensaje de error (y muere lastimosamente):
+> >
+> > Gtk-WARNING **: cannot open display: :0.0
+> >
+> > X me funciona bien, mi windows manager es blackbox, otras aplicaciones X 
+corren
+> > sin problemas (por ej. Opera).
+> >
+> > El problema es el mismo corriendo como root y como usuario ordinario.
+> >
+> > Alguna idea?
+> >
+> > Muchas gracias por la ayuda.
+> >
+> > abel
+> > _______________________________________________
+> > Luca-erp-users mailing list
+> > Luca-erp-users at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/luca-erp-users
+> >
+
+
+
+
+
+
+From lotteriaprimitiva at walla.com  Thu Oct 13 13:29:35 2005
+From: lotteriaprimitiva at walla.com (LOTERIA PRIMITIVA)
+Date: Thu, 13 Oct 2005 13:29:35 +0200
+Subject: [Luca-erp-users] CONGRATULATIONS,YOU HAVE WON!!!
+Message-ID: <200510131129.j9DBTY917183@bat.berlios.de>
+
+LOTERIA PRIMITIVA 
+AWARD/PROMOTIONAL DEPARTMENT
+VALENCIA.SPAIN.
+http://loteria.com/primitiva.php
+
+ We are please to announce you as one of the 12 lucky winners in the email lottery programme draw of the LOTERIA PRIMITIVA held on the 3rd of october,2005.All 12 winning addresses were randomly selected from a batch of 100,000,000 international emails Your email address emerged along sidewith 12 others as a category 6 winner in this year's loteria primitiva award Draw.Most recently the foundation set up the NEW HOPE LOTTERY to give out prizes based on the computer ballot system(THEREFORE YOU DO NOT NEED TO BUY A TICKET TO ENTER FOR IT.YOUR EMAIL ADDRESS WAS RANDOMLY SELECTED AS A WINNER).
+
+ Consequently,you have therefore been approved a MEGA JACK POT of 1,427,159.00 euro (One million,four hundred and twenty seven thousand,one hundred and fifty-nine euro)only.The following particulars are attached to your lotto payment order:
+
+(i) Result winning numbers:16-27-35-43-46-47-2-4
+(ii) email ticket number: FL754/22/76
+(iii)lotto code number: PDP98643JK
+(iv) the file Ref number: LV/04/67903456/TH
+
+Please,note that you will be require to notarized and obtained a vetting approval before your winning prize can be transfered.To immediately claim your prize,contact the claim/paying agent below.
+
+NOTARIO TRUST AGENCY S.L
+=========================
+Mr.Mark Lopez
+calle barcalona 63.5678,Alicante,spain.
+TEL:0034-618-572-160
+EMAIL TO:notarioagency at netscape.net
+
+The above claim agent will assist you in the processing and remittance of your prize funds to you,note not later than one week After this date if you do not contact and process your winning prize, all funds will be returned as unclaimed.call the above number for more details.
+
+N.B:Procedures to claiming your prize:
+********************************************
+1.Please quote your Reference number in all correspondence with the claims
+officer.
+2.Indicate your full name and address,Country,Telephone,mobile and fax
+number and occupation.
+Once again on behalf of all our staff,CONGRATULATIONS!!!
+
+Sincerely,
+Yoli helena.
+Promotions Manager
+The Loteria Primitiva
+http://loteria.com/primitiva.php
+-------------------------------------------------
+This e-mail transmission contains information that is confidential and may be privileged.It is intended only for the addressee(s) named above.
+--------------------------------------------------
+
+From lotteriaprimitiva at walla.com  Thu Oct 13 13:52:41 2005
+From: lotteriaprimitiva at walla.com (LOTERIA PRIMITIVA)
+Date: Thu, 13 Oct 2005 13:52:41 +0200
+Subject: [Luca-erp-users] CONGRATULATIONS,YOU HAVE WON!!!
+Message-ID: <200510131152.j9DBqM917825@bat.berlios.de>
+
+LOTERIA PRIMITIVA 
+AWARD/PROMOTIONAL DEPARTMENT
+VALENCIA.SPAIN.
+http://loteria.com/primitiva.php
+
+ We are please to announce you as one of the 12 lucky winners in the email lottery programme draw of the LOTERIA PRIMITIVA held on the 3rd of october,2005.All 12 winning addresses were randomly selected from a batch of 100,000,000 international emails Your email address emerged along sidewith 12 others as a category 6 winner in this year's loteria primitiva award Draw.Most recently the foundation set up the NEW HOPE LOTTERY to give out prizes based on the computer ballot system(THEREFORE YOU DO NOT NEED TO BUY A TICKET TO ENTER FOR IT.YOUR EMAIL ADDRESS WAS RANDOMLY SELECTED AS A WINNER).
+
+ Consequently,you have therefore been approved a MEGA JACK POT of 1,427,159.00 euro (One million,four hundred and twenty seven thousand,one hundred and fifty-nine euro)only.The following particulars are attached to your lotto payment order:
+
+(i) Result winning numbers:16-27-35-43-46-47-2-4
+(ii) email ticket number: FL754/22/76
+(iii)lotto code number: PDP98643JK
+(iv) the file Ref number: LV/04/67903456/TH
+
+Please,note that you will be require to notarized and obtained a vetting approval before your winning prize can be transfered.To immediately claim your prize,contact the claim/paying agent below.
+
+NOTARIO TRUST AGENCY S.L
+=========================
+Mr.Mark Lopez
+calle barcalona 63.5678,Alicante,spain.
+TEL:0034-618-572-160
+EMAIL TO:notarioagency at netscape.net
+
+The above claim agent will assist you in the processing and remittance of your prize funds to you,note not later than one week After this date if you do not contact and process your winning prize, all funds will be returned as unclaimed.call the above number for more details.
+
+N.B:Procedures to claiming your prize:
+********************************************
+1.Please quote your Reference number in all correspondence with the claims
+officer.
+2.Indicate your full name and address,Country,Telephone,mobile and fax
+number and occupation.
+Once again on behalf of all our staff,CONGRATULATIONS!!!
+
+Sincerely,
+Yoli helena.
+Promotions Manager
+The Loteria Primitiva
+http://loteria.com/primitiva.php
+-------------------------------------------------
+This e-mail transmission contains information that is confidential and may be privileged.It is intended only for the addressee(s) named above.
+--------------------------------------------------
+
+From laprimitiavzone at caramail.com  Fri Oct 21 15:33:05 2005
+From: laprimitiavzone at caramail.com (MRS.BLANCO LOPEZ)
+Date: Fri, 21 Oct 2005 15:33:05 +0200
+Subject: [Luca-erp-users] RE: AWARD NOTIFICATION FINAL NOTICE
+Message-ID: <200510211333.j9LDX2w17897@bat.berlios.de>
+
+FROM THE DESK OF MANAGINE DIRECTOR 
+CLAIM FILE NUMBER: EG/008045160027                                           MADRID: 21/09/2005
+
+BATCH NUMBER: 100000488                                                                                                 
+
+                                 RE: AWARD NOTIFICATION FINAL NOTICE
+
+                                                                                      
+
+We are pleased to inform you today 21st  day of oct.2005 for the release of the SPANISH SWEEPSTAKE LOTTERY / INTERNATIONAL PROGRAM Held on the 26 Aug 2005. Your name attached to the ticket number 025-11-464-992-750 drew the lucky number 134-15-16-21-34-36 which consequently won the lottery in the 3rd category. You have therefore been approved for a lump sum pay of US$950,950.00 ( NINE HUNDRED AND FIFTY THOUSAND, NINE HUNDRED AND FIFTY UNITED STATES DOLLARS ONLY ) in cash credited to file NO: EG/008045160027. This is From A Total Cash Prize of US$25,756.820.00 ( TWENTY FIVE MILLION SEVEN HUNDRED AND FIFTY SIX THOUSAND, EIGHT HUNDRED AND TWENTY DOLLARS ONLY ) shared Among International Winners In This category 
+
+                 CONGRATULATIONS.
+
+Your fund is now deposited with a finance company insured to your name. please note that your claim and batch numbers are the key to your funds, you are to keep this as a top confidential until your claim has been processed and your money remitted to your bank account as this is part of our protocol to avoid double claiming or unwarranted taking of an advantage of this program by participants.
+
+All Participants were selected through a computer ballot system drawn from 25,000 names from Europe and America as part of our international promotions program which we conduct twice every year. We hope with a part of your prize you will take part in our next high stake USD1.3 BILLION INTERNATIONAL LOTTERY.
+
+To begin your claim, please contact your claim agent MR.LUIS GOMEZ, the foreign Service manager UNION SECURITY & FINANCE COMPANY TEL:0034-696-700-066 FAX:0034-940-465-815 EMAIL:union_security at zwallet.com for processing and transfer of your prize money to a designated bank account of your choice. Remember all prize money must be claimed not latter than 15th novermber 2005. After this date, all funds will be return to the Ministerio De economia y Hacienda as unclaimed.
+
+NOTE: In order to avoid unnecessary delay and complications, please remember to quote your reference and batch numbers in every of your correspondence with us or your agent, furthermore, should there be any change of address, Do notify your claims agent as soon as possible.
+
+Congratulations again from all members of our staff and thank you for being a part of our promotion program.
+
+ 
+
+Sincerely,
+
+                                                       MRS.BLANCO LOPEZ  
+
+                                                          DIRECTOR    
+
+ 
+
+
+From nonameserver at hotmail.com  Thu Oct 27 15:04:35 2005
+From: nonameserver at hotmail.com (KARAOKES)
+Date: 27 Oct 2005 10:04:35 -0300
+Subject: [Luca-erp-users] 30.000 CANCIONES A $35 !!!
+Message-ID: <200510271304.j9RD4hw29571@bat.berlios.de>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/luca-erp-users/attachments/20051027/49e1d9ad/attachment.html>
+
+From nonameserver at hotmail.com  Thu Oct 27 16:33:56 2005
+From: nonameserver at hotmail.com (OCULTISMO)
+Date: 27 Oct 2005 11:33:56 -0300
+Subject: [Luca-erp-users] 1500 LIBROS DE CIENCIAS OCULTAS
+Message-ID: <200510271434.j9REXxw32327@bat.berlios.de>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/luca-erp-users/attachments/20051027/91fb66f3/attachment.html>
+
+From lamontkate_2005 at walla.com  Thu Oct 27 21:27:57 2005
+From: lamontkate_2005 at walla.com (kate)
+Date: Thu, 27 Oct 2005 21:27:57 +0200
+Subject: [Luca-erp-users] Beloved in Christ
+Message-ID: <200510271927.j9RJRtw13705@bat.berlios.de>
+
+Dearly Beloved in Christ,
+It is by the grace of God that I received Christ, Having known the truth; I had no choice than to do what is lawful and right in the sight of God for eternal life and in the sight of man for witness of God?s mercyand glory upon my life. I am Mrs Kate Lamont the wife of Mr Pointer Lamont, my husband worked with the Chevron/Texaco in Kenya for twenty years before he died in the year 2002.We were married for twenty-seven years without a child. My Husband died after a brief illness that lasted for only four days. Before his death we were both born again Christians. Since his death I decided not to re-marry or get a child outside my matrimonial home, which the Bible is against. When my late husband was alive he deposited the sum of US $10.5M. (Ten Million Five Hundred Thousand U.S. Dollars) with a Security company in Europe. Presently, this money is still with the safe keeping and the management just wrote me as the beneficiary to come forward to sign for the release of this money or rather issue a letter of authorization to somebody to receive it on my behalf if I cannot come over. Presently, I'm in a hospital in Kenya where I have been undergoing treatment for oesophageal cancer. I have since lost my ability to talk and my doctors have told me that I have only a few weeks to live. It is my last wish to see this money distributed to charity organizations any where in the World. Because relatives and friends have plundered so much of my wealth since my illness, I cannot live with the agony of entrusting this huge responsibility to any of them. Please, I beg you in the name of God to help me Stand and collect the Funds from the vault. I want a person that is God fearing that will use this money to fund churches, orphanages and widows propagating the word of God and to ensure that the house
+of God is maintained. The Bible made us to understand that blessed is the hand that give. I took this decision because I don't have any child that will inherit this money and my husband relatives are not Christians and I don't want my husband's hard earned money to be misused by unbelievers. I don't want a situation where this money will be used in an ungodly manner. Hence the reasons for taking this bold decision. I am not afraid of death hence I know where I am going. I know that I am going to be in the bosom of the Lord. Exodus 14 VS 14 says that the lord will fight my case and I shall hold my peace. I don't need any telephone communication in this regard because of my soundless voice and
+presence of my husband's relatives around me always. I don't want them to know about this development. With God all things are possible. As soon as I receive your reply I shall give you the contact of Attorney who is in Europe as he will be the one to assist you in laying claims for this funds.
+ 
+Yours in Christ,
+Kate Lamont       
+
+From ramirolaso at gmail.com  Thu Oct 27 22:29:23 2005
+From: ramirolaso at gmail.com (Ramiro Laso)
+Date: Thu, 27 Oct 2005 17:29:23 -0300
+Subject: [Luca-erp-users] Varias preguntas
+Message-ID: <aae5b4ca0510271329w1542c056w@mail.gmail.com>
+
+Hola, estoy teniendo las siguientes dudas con Luca v0.2.0 (uso el luca
+enjaulado):
+
+1) El sistema instalado est? instalado en una Librer?a, dicha librer?a
+trabaja con libros en consignaci?n. El asunto es que necesitamos
+liquidar ventas, me parece que el Luca no trae esta funcionalidad,
+pero ?existe alguna forma alternativa para alivianar el trabajo de
+hacerlo manualmente?.
+2) ?C?mo hago para configurar una impresora en el Luca? ?Debo
+configurarla en el woody enjaulado??Recomiendan alg?n how-to?
+3)Hemos tenido problemas para dar de alta un proveedor, m?s
+espec?ficamente con un CUIT de dicho proveedor. Cuando intent?mos
+guardar el sistema nos dice que no se pueden insertar claves
+duplicadas (obviamente, ese cuit no estaba registrado previamente en
+el sistema). Si cambiamos el cuit, funciona perfectamente.
+4) Algo muy importante que no podemos hacer es el ajuste de stock
+inicial. Para hacerlo debemos crear un remito e indicar las
+cantidades, luego podemos hacer todas las modificaciones que
+querramos. ?Es as? como debe hacerse?.
+5) ?Se puede imprimir facturas con el Luca? o ?necesito hacer facturas
+pre-impresas?, disculpen la ignorancia, es la primera vez que trabajo
+con un sistema de facturaci?n.
+
+Saludos a todos y much?simas gracias. Ramiro Laso
+
+
+From arielfx at telnet.com.ar  Fri Oct 28 15:53:22 2005
+From: arielfx at telnet.com.ar (Ariel Funes)
+Date: Fri, 28 Oct 2005 10:53:22 -0300
+Subject: [Luca-erp-users] error inicio luca
+Message-ID: <43622D52.8070402@telnet.com.ar>
+
+Hola a todos, sigo tratando de hacer funcionar LUCA. Cuando trato de 
+iniciarlo me pide Usario y Contrase?a. esto es lo que sale luego de 
+probar algo:
+
+[root at localhost ariel]# luca
+access control disabled, clients can connect from any host
+Restarting PostgreSQL database: postmaster
+No /usr/lib/postgresql/bin/postmaster found running; none killed.
+Starting PostgreSQL postmaster.
+postmaster successfully started
+.
+Bienvenido a Luca v0.2.0
+DB000: Traceback (most recent call last):
+DB000:   File "/usr/local//luca-0.2.0/gnue//forms/GFClient.py", line 
+223, in ?
+DB000:     GFClient().run()
+DB000:   File "/usr/local//luca-0.2.0/gnue//forms/GFClient.py", line 
+128, in run
+DB000:     self.runForm(formfile, self.disableSplash, 
+parameters=userParameters)
+DB000:   File "/usr/local//luca-0.2.0/gnue//forms/GFClient.py", line 
+191, in runForm
+DB000:     form = loadForm (fileHandle, instance, 1, parameters)
+DB000:   File "/usr/local//luca-0.2.0/gnue/forms/GFParser.py", line 62, 
+in loadForm
+DB000:     "_connections": app.connections}, initParameters=parameters)
+DB000:   File "/usr/local//luca-0.2.0/gnue/common/GParser.py", line 112, 
+in loadXMLObject
+DB000:     object.phaseInit(dh._phaseInitCount, initParameters)
+DB000:   File "/usr/local//luca-0.2.0/gnue/common/GObjects.py", line 88, 
+in phaseInit
+DB000:     self._phaseInit(phase, params)
+DB000:   File "/usr/local//luca-0.2.0/gnue/common/GObjects.py", line 
+100, in _phaseInit
+DB000:     child._phaseInit(phase,params)
+DB000:   File "/usr/local//luca-0.2.0/gnue/common/GObjects.py", line 96, 
+in _phaseInit
+DB000:     self._inits[phase]()
+DB000:   File "/usr/local//luca-0.2.0/gnue/common/GDataSource.py", line 
+260, in primaryInit
+DB000:     self.connect()
+DB000:   File "/usr/local//luca-0.2.0/gnue/common/GDataSource.py", line 
+191, in connect
+DB000:     self._connections.\
+DB000:   File "/usr/local//luca-0.2.0/gnue/common/GConnections.py", line 
+287, in requestConnection
+DB000:     errortext = string.replace("%s" % error,'\n','')
+DB000: TypeError: __str__ returned non-string (type instance)
+[root at localhost ariel]#                                                    
+
+
+From montanadelmar at zona-andina.net  Sun Oct 30 11:44:57 2005
+From: montanadelmar at zona-andina.net (gratis)
+Date: Sun, 30 Oct 2005 11:44:57 +0100
+Subject: [Luca-erp-users] Urlaub - auch für Sie
+Message-ID: <200510301044.j9UAivw25194@bat.berlios.de>
+
+Bestimmt m?chten Sie einen
+Gratisurlaub?
+Kein Problem. Es geht sogar ganz einfach. 
+Wir in Monta?a del Mar an der spanischen Mittelmeerk?ste leben von der
+Mund-zu-Mund-Propaganda. Also, wenn uns unsere Kunden und Freunde
+weiterempfehlen. Und diese f?r uns so wichtige Werbung wollen wir belohnen.
+Indem wir sie mit einer Woche Gratisurlaub beschenken. Nat?rlich auch Sie.
+Sie m?ssen lediglich in Ihrem Bekannten- und Freundeskreis auf Monta?a del
+Mar aufmerksam machen. Der eine oder andere wird dann bei Monta?a del Mar
+seinen Urlaub buchen. Und schon haben Sie Ihren Gratisurlaub. Und sogar
+noch Urlaubsgeld dazu. Denn Sie erhalten zus?tzlich eine Provision von 15%
+auf die Buchung des von Ihnen Geworbenen. Ist doch toll, nicht wahr? Es
+lohnt sich wirklich, etwas Propaganda zu machen.
+Sie brauchen nur Ihren Bekannten oder Freunden sagen, sie sollen uns eine
+eMail senden oder www.spain-mm2.net besuchen. Dort werden sie alles finden,
+was sie wissen wollen. Wenn er dann gebucht hat, brauchen Sie uns nur noch
+seinen Namen zu nennen und schon haben Sie Ihren Gratisurlaub ? und das
+Urlaubsgeld.
+
+Monta?a del Mar                                     
+E-08811 Canyelles / Spanien
+Telefon 0034-938 973 311
+Mobiltelefon 0034-629 759 385 
+Fax 0034-938 973 369
+eMail
+Ihren Bekannten ? und auch Ihnen ? wird Monta?a del Mar gefallen. Es gibt
+kaum einen andern Ort, bei dem man einen so ruhigen Urlaub mit den
+gew?nschten Aktivit?ten ? sei es nun sportlich oder kurturell oder
+gesellschaftlich ? miteinander verbinden kann, wohnen in der Natur aber
+ganz nah am Rummel. Zwischen einem der sch?nsten Str?nde des Mittelmeers
+und dem pulsierenden Leben des nur eine halbe Stunde entfernten Barcelonas
+oder der ganzen Unterhaltungseuphorie in Sitges (gerade 5 Minuten entfernt)
+zu pendeln. Das ist Abwechslung, wie man sie im Urlaub haben will.
+Senden Sie uns einfach eine eMail. 
+Am besten gleich
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/luca-erp-users/attachments/20051030/8747caf2/attachment.html>
+
+From recetasxrecetas at hotmail.com  Mon Oct 31 16:20:59 2005
+From: recetasxrecetas at hotmail.com (=?ISO-8859-1?B?v1RlIGd1c3RhIGNvY2luYXI/?=)
+Date: 31 Oct 2005 12:20:59 -0300
+Subject: [Luca-erp-users] IMPERDIBLE CD CON 10.000 RECETAS INTERNACIONALES !!!
+Message-ID: <200510311520.j9VFKbw15559@bat.berlios.de>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/luca-erp-users/attachments/20051031/3d813fec/attachment.html>
+

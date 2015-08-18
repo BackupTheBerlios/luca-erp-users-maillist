@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Luca-erp-users] error Corriendo Luca-0.2.0 en distribuciones modernas
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/luca-erp-users/2005-September/index.html" >
+   <LINK REL="made" HREF="mailto:luca-erp-users%40lists.berlios.de?Subject=Re%3A%20%5BLuca-erp-users%5D%20error%20Corriendo%20Luca-0.2.0%20en%20distribuciones%20modernas&In-Reply-To=%3C433B2CD2.80603%40telnet.com.ar%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000037.html">
+   
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Luca-erp-users] error Corriendo Luca-0.2.0 en distribuciones modernas</H1>
+    <B>Ariel Funes</B> 
+    <A HREF="mailto:luca-erp-users%40lists.berlios.de?Subject=Re%3A%20%5BLuca-erp-users%5D%20error%20Corriendo%20Luca-0.2.0%20en%20distribuciones%20modernas&In-Reply-To=%3C433B2CD2.80603%40telnet.com.ar%3E"
+       TITLE="[Luca-erp-users] error Corriendo Luca-0.2.0 en distribuciones modernas">arielfx at telnet.com.ar
+       </A><BR>
+    <I>Thu Sep 29 01:52:50 CEST 2005</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000037.html">[Luca-erp-users] error Corriendo Luca-0.2.0 en distribuciones modernas
+</A></li>
+        
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#38">[ date ]</a>
+              <a href="thread.html#38">[ thread ]</a>
+              <a href="subject.html#38">[ subject ]</a>
+              <a href="author.html#38">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Hola Ramiro, segui tus pasos ... pero me parece que falta crear la bace 
+de datos &quot;papo&quot;...mira este error
+
+localhost:/usr/local/luca-0.2.0/luca# ./sql/admin_period.py papo papo 
+localhost
+Traceback (most recent call last):
+  File &quot;./sql/admin_period.py&quot;, line 20, in ?
+    dbh = psycopg.connect(&quot;dbname=%s user=%s host=%s&quot; % (db, user, host))
+psycopg.OperationalError: FATAL:  no existe la base de datos &#171;papo&#187;
+
+
+Ramiro Laso escribi&#243;:
+
+&gt;<i>Funcion&#243;? al final?. Mir&#225; me parece que falta agregar esa parte al
+</I>&gt;<i>tutorial.  Si te fij&#225;s en la versi&#243;n vieja del tutorial, hay que
+</I>&gt;<i>iniciarlo. Tambi&#233;n, me parece, que falta la parte de montar el proc
+</I>&gt;<i>(tambi&#233;n est&#225; en el tutorial viejo). Si no lo hac&#233;s, cuando inicies el
+</I>&gt;<i>postgres, te va a decir que el proc no est&#225; montado y que puede ser
+</I>&gt;<i>que ya est&#233; corriendo un postgres (a&#250;n as&#237; se levanta).
+</I>&gt;<i>Agreg&#225; esto al fstab:
+</I>&gt;<i>
+</I>&gt;<i>none                          /var/lib/luca/proc proc defaults 0 2
+</I>&gt;<i>
+</I>&gt;<i>luego #mount -av
+</I>&gt;<i>
+</I>&gt;<i>Reci&#233;n ah&#237; hace el chroot , lanz&#225; postgres y corre el script admin_period.py
+</I>&gt;<i>
+</I>&gt;<i>Repito, no s&#233; si hace falta, yo lo hago porque as&#237; no salta el error
+</I>&gt;<i>que te cont&#233;.
+</I>&gt;<i>As&#237; lo tengo armado yo, y funciona todo.
+</I>&gt;<i>Saludos. Ramiro Laso.
+</I>&gt;<i>
+</I>&gt;<i>  
+</I>&gt;<i>
+</I>&gt;&gt;<i>Ramiro...gracias por responder, sabes yo segu&#237; las instrucciones de este
+</I>&gt;&gt;<i>enlace:
+</I>&gt;&gt;<i><A HREF="http://papo.vialibre.org.ar/luca-folder/chrooted-luca_take-2/document_view.html">http://papo.vialibre.org.ar/luca-folder/chrooted-luca_take-2/document_view.html</A>
+</I>&gt;&gt;<i>
+</I>&gt;&gt;<i>Que seg&#250;n entend&#237; no tenia que estar funcionando post gres. &#191;que me suger&#237;s?
+</I>&gt;&gt;<i>_______________________________________________
+</I>&gt;&gt;<i>Luca-erp-users mailing list
+</I>&gt;&gt;<i><A HREF="https://lists.berlios.de/mailman/listinfo/luca-erp-users">Luca-erp-users at lists.berlios.de</A>
+</I>&gt;&gt;<i><A HREF="http://lists.berlios.de/mailman/listinfo/luca-erp-users">http://lists.berlios.de/mailman/listinfo/luca-erp-users</A>
+</I>&gt;&gt;<i>
+</I>&gt;&gt;<i>    
+</I>&gt;&gt;<i>
+</I>&gt;<i>
+</I>&gt;<i>
+</I>&gt;<i>  
+</I>&gt;<i>
+</I>
+
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000037.html">[Luca-erp-users] error Corriendo Luca-0.2.0 en distribuciones modernas
+</A></li>
+	
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#38">[ date ]</a>
+              <a href="thread.html#38">[ thread ]</a>
+              <a href="subject.html#38">[ subject ]</a>
+              <a href="author.html#38">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/luca-erp-users">More information about the Luca-erp-users
+mailing list</a><br>
+</body></html>
